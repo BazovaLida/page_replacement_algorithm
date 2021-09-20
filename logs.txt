@@ -1,0 +1,385 @@
+Created process. Amount of virtual pages: 8
+	Virtual Page[P: true, R: false, M: false, PPN: 0]
+	Virtual Page[P: true, R: false, M: false, PPN: 1]
+	Virtual Page[P: true, R: false, M: false, PPN: 2]
+	Virtual Page[P: true, R: false, M: false, PPN: 3]
+	Virtual Page[P: true, R: false, M: false, PPN: 4]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+
+Created process. Amount of virtual pages: 11
+	Virtual Page[P: true, R: false, M: false, PPN: 0]
+	Virtual Page[P: true, R: false, M: false, PPN: 1]
+	Virtual Page[P: true, R: false, M: false, PPN: 2]
+	Virtual Page[P: true, R: false, M: false, PPN: 3]
+	Virtual Page[P: true, R: false, M: false, PPN: 4]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+
+Created process. Amount of virtual pages: 9
+	Virtual Page[P: true, R: false, M: false, PPN: 0]
+	Virtual Page[P: true, R: false, M: false, PPN: 1]
+	Virtual Page[P: true, R: false, M: false, PPN: 2]
+	Virtual Page[P: true, R: false, M: false, PPN: 3]
+	Virtual Page[P: true, R: false, M: false, PPN: 4]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+
+Created process. Amount of virtual pages: 10
+	Virtual Page[P: true, R: false, M: false, PPN: 0]
+	Virtual Page[P: true, R: false, M: false, PPN: 1]
+	Virtual Page[P: true, R: false, M: false, PPN: 2]
+	Virtual Page[P: true, R: false, M: false, PPN: 3]
+	Virtual Page[P: true, R: false, M: false, PPN: 4]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+
+Created process. Amount of virtual pages: 11
+	Virtual Page[P: true, R: false, M: false, PPN: 0]
+	Virtual Page[P: true, R: false, M: false, PPN: 1]
+	Virtual Page[P: true, R: false, M: false, PPN: 2]
+	Virtual Page[P: true, R: false, M: false, PPN: 3]
+	Virtual Page[P: true, R: false, M: false, PPN: 4]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+
+Created process. Amount of virtual pages: 11
+	Virtual Page[P: true, R: false, M: false, PPN: 0]
+	Virtual Page[P: true, R: false, M: false, PPN: 1]
+	Virtual Page[P: true, R: false, M: false, PPN: 2]
+	Virtual Page[P: true, R: false, M: false, PPN: 3]
+	Virtual Page[P: true, R: false, M: false, PPN: 4]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+
+Created process. Amount of virtual pages: 10
+	Virtual Page[P: true, R: false, M: false, PPN: 0]
+	Virtual Page[P: true, R: false, M: false, PPN: 1]
+	Virtual Page[P: true, R: false, M: false, PPN: 2]
+	Virtual Page[P: true, R: false, M: false, PPN: 3]
+	Virtual Page[P: true, R: false, M: false, PPN: 4]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+
+Created process. Amount of virtual pages: 7
+	Virtual Page[P: true, R: false, M: false, PPN: 0]
+	Virtual Page[P: true, R: false, M: false, PPN: 1]
+	Virtual Page[P: true, R: false, M: false, PPN: 2]
+	Virtual Page[P: true, R: false, M: false, PPN: 3]
+	Virtual Page[P: true, R: false, M: false, PPN: 4]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+
+Created process. Amount of virtual pages: 10
+	Virtual Page[P: true, R: false, M: false, PPN: 0]
+	Virtual Page[P: true, R: false, M: false, PPN: 1]
+	Virtual Page[P: true, R: false, M: false, PPN: 2]
+	Virtual Page[P: true, R: false, M: false, PPN: 3]
+	Virtual Page[P: true, R: false, M: false, PPN: 4]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+
+Created process. Amount of virtual pages: 7
+	Virtual Page[P: true, R: false, M: false, PPN: 0]
+	Virtual Page[P: true, R: false, M: false, PPN: 1]
+	Virtual Page[P: true, R: false, M: false, PPN: 2]
+	Virtual Page[P: true, R: false, M: false, PPN: 3]
+	Virtual Page[P: true, R: false, M: false, PPN: 4]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+	Virtual Page[P: false, R: false, M: false, PPN: -1]
+
+Time: 0 process: 0 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: true, PPN: 2]
+Time: 1 process: 1 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: false, PPN: 2]
+Time: 2 process: 2 page idx: 0
+	Access to page #0: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 3 process: 3 page idx: 7
+
+Page fault. Searching for a space...
+Clock algorithm logs:
+Clock algorithm choose: Virtual Page[P: true, R: false, M: false, PPN: 0]
+
+	Access to page #7: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 4 process: 4 page idx: 9
+
+Page fault. Searching for a space...
+Clock algorithm logs:
+Clock algorithm choose: Virtual Page[P: true, R: false, M: false, PPN: 0]
+
+	Access to page #9: Virtual Page[P: true, R: true, M: false, PPN: 0]
+Time: 5 process: 5 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: false, PPN: 2]
+Time: 6 process: 6 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: false, PPN: 4]
+Time: 7 process: 7 page idx: 0
+	Access to page #0: Virtual Page[P: true, R: true, M: false, PPN: 0]
+Time: 8 process: 8 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: false, PPN: 4]
+Time: 9 process: 9 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: false, PPN: 1]
+Time: 10 process: 0 page idx: 0
+	Access to page #0: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 11 process: 1 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: true, PPN: 3]
+Time: 12 process: 2 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: true, PPN: 3]
+Time: 13 process: 3 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: true, PPN: 3]
+Time: 14 process: 4 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: false, PPN: 1]
+Time: 15 process: 5 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: false, PPN: 2]
+Time: 16 process: 6 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: true, PPN: 1]
+Time: 17 process: 7 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: false, PPN: 3]
+Time: 18 process: 8 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: false, PPN: 4]
+Time: 19 process: 9 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: true, PPN: 3]
+Time: 20 process: 0 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: false, PPN: 3]
+Time: 21 process: 1 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: true, PPN: 3]
+Time: 22 process: 2 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: false, PPN: 4]
+Time: 23 process: 3 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: true, PPN: 4]
+Time: 24 process: 4 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: true, PPN: 2]
+Time: 25 process: 5 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: true, PPN: 3]
+Time: 26 process: 6 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: false, PPN: 3]
+Time: 27 process: 7 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: true, PPN: 2]
+Time: 28 process: 8 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: true, PPN: 2]
+Time: 29 process: 9 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: false, PPN: 2]
+Time: 30 process: 0 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: true, PPN: 2]
+Time: 31 process: 1 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: false, PPN: 2]
+Time: 32 process: 2 page idx: 6
+
+Page fault. Searching for a space...
+Clock algorithm logs:
+	Removed R bit from Virtual Page[P: true, R: false, M: true, PPN: 0]
+Clock algorithm choose: Virtual Page[P: true, R: false, M: false, PPN: 1]
+
+	Access to page #6: Virtual Page[P: true, R: true, M: false, PPN: 1]
+Time: 33 process: 3 page idx: 7
+	Access to page #7: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 34 process: 4 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: false, PPN: 1]
+Time: 35 process: 5 page idx: 8
+
+Page fault. Searching for a space...
+Clock algorithm logs:
+Clock algorithm choose: Virtual Page[P: true, R: false, M: false, PPN: 0]
+
+	Access to page #8: Virtual Page[P: true, R: true, M: false, PPN: 0]
+Time: 36 process: 6 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: true, PPN: 1]
+Time: 37 process: 7 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: true, PPN: 2]
+Time: 38 process: 8 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: true, PPN: 1]
+Time: 39 process: 9 page idx: 6
+
+Page fault. Searching for a space...
+Clock algorithm logs:
+Clock algorithm choose: Virtual Page[P: true, R: false, M: false, PPN: 0]
+
+	Access to page #6: Virtual Page[P: true, R: true, M: false, PPN: 0]
+Time: 40 process: 0 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: false, PPN: 1]
+Time: 41 process: 1 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: true, PPN: 1]
+Time: 42 process: 2 page idx: 6
+	Access to page #6: Virtual Page[P: true, R: true, M: true, PPN: 1]
+Time: 43 process: 3 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: true, PPN: 3]
+Time: 44 process: 4 page idx: 9
+	Access to page #9: Virtual Page[P: true, R: true, M: false, PPN: 0]
+Time: 45 process: 5 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: true, PPN: 1]
+Time: 46 process: 6 page idx: 0
+	Access to page #0: Virtual Page[P: true, R: true, M: false, PPN: 0]
+Time: 47 process: 7 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: true, PPN: 4]
+Time: 48 process: 8 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: true, PPN: 4]
+Time: 49 process: 9 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: false, PPN: 4]
+Time: 50 process: 0 page idx: 0
+	Access to page #0: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 51 process: 1 page idx: 6
+
+Page fault. Searching for a space...
+Clock algorithm logs:
+Clock algorithm choose: Virtual Page[P: true, R: false, M: false, PPN: 0]
+
+	Access to page #6: Virtual Page[P: true, R: true, M: false, PPN: 0]
+Time: 52 process: 2 page idx: 1
+
+Page fault. Searching for a space...
+Clock algorithm logs:
+Clock algorithm choose: Virtual Page[P: true, R: false, M: false, PPN: 2]
+
+	Access to page #1: Virtual Page[P: true, R: true, M: true, PPN: 2]
+Time: 53 process: 3 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: true, PPN: 4]
+Time: 54 process: 4 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: true, PPN: 1]
+Time: 55 process: 5 page idx: 8
+	Access to page #8: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 56 process: 6 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: false, PPN: 4]
+Time: 57 process: 7 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: true, PPN: 2]
+Time: 58 process: 8 page idx: 6
+
+Page fault. Searching for a space...
+Clock algorithm logs:
+Clock algorithm choose: Virtual Page[P: true, R: false, M: false, PPN: 0]
+
+	Access to page #6: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 59 process: 9 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: false, PPN: 1]
+Time: 60 process: 0 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: false, PPN: 3]
+Time: 61 process: 1 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: false, PPN: 4]
+Time: 62 process: 2 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: true, PPN: 4]
+Time: 63 process: 3 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: true, PPN: 3]
+Time: 64 process: 4 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: true, PPN: 1]
+Time: 65 process: 5 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: false, PPN: 4]
+Time: 66 process: 6 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: false, PPN: 3]
+Time: 67 process: 7 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: true, PPN: 1]
+Time: 68 process: 8 page idx: 9
+
+Page fault. Searching for a space...
+Clock algorithm logs:
+	Removed R bit from Virtual Page[P: true, R: false, M: true, PPN: 1]
+	Removed R bit from Virtual Page[P: true, R: false, M: true, PPN: 2]
+Clock algorithm choose: Virtual Page[P: true, R: false, M: false, PPN: 3]
+
+	Access to page #9: Virtual Page[P: true, R: true, M: true, PPN: 3]
+Time: 69 process: 9 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: false, PPN: 1]
+Time: 70 process: 0 page idx: 7
+
+Page fault. Searching for a space...
+Clock algorithm logs:
+	Removed R bit from Virtual Page[P: true, R: false, M: true, PPN: 0]
+	Removed R bit from Virtual Page[P: true, R: false, M: false, PPN: 1]
+	Removed R bit from Virtual Page[P: true, R: false, M: true, PPN: 2]
+	Removed R bit from Virtual Page[P: true, R: false, M: false, PPN: 3]
+Clock algorithm choose: Virtual Page[P: true, R: false, M: false, PPN: 4]
+
+	Access to page #7: Virtual Page[P: true, R: true, M: true, PPN: 4]
+Time: 71 process: 1 page idx: 6
+	Access to page #6: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 72 process: 2 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: true, PPN: 4]
+Time: 73 process: 3 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: true, PPN: 4]
+Time: 74 process: 4 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: true, PPN: 3]
+Time: 75 process: 5 page idx: 8
+	Access to page #8: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 76 process: 6 page idx: 0
+	Access to page #0: Virtual Page[P: true, R: true, M: false, PPN: 0]
+Time: 77 process: 7 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: false, PPN: 3]
+Time: 78 process: 8 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: true, PPN: 1]
+Time: 79 process: 9 page idx: 6
+	Access to page #6: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 80 process: 0 page idx: 6
+
+Page fault. Searching for a space...
+Clock algorithm logs:
+Clock algorithm choose: Virtual Page[P: false, R: false, M: false, PPN: -1]
+
+	Access to page #6: Virtual Page[P: true, R: true, M: false, PPN: -1]
+Time: 81 process: 1 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: true, PPN: 1]
+Time: 82 process: 2 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: true, PPN: 3]
+Time: 83 process: 3 page idx: 7
+	Access to page #7: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 84 process: 4 page idx: 9
+	Access to page #9: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 85 process: 5 page idx: 8
+	Access to page #8: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 86 process: 6 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: true, PPN: 4]
+Time: 87 process: 7 page idx: 0
+	Access to page #0: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 88 process: 8 page idx: 5
+
+Page fault. Searching for a space...
+Clock algorithm logs:
+	Removed R bit from Virtual Page[P: true, R: false, M: true, PPN: 4]
+Clock algorithm choose: Virtual Page[P: false, R: false, M: false, PPN: -1]
+Time: 89 process: 9 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: true, PPN: 3]
+Time: 90 process: 0 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: true, PPN: 2]
+Time: 91 process: 1 page idx: 6
+	Access to page #6: Virtual Page[P: true, R: true, M: true, PPN: 0]
+Time: 92 process: 2 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: true, PPN: 3]
+Time: 93 process: 3 page idx: 6
+
+Page fault. Searching for a space...
+Clock algorithm logs:
+Clock algorithm choose: Virtual Page[P: true, R: false, M: false, PPN: 1]
+
+	Access to page #6: Virtual Page[P: true, R: true, M: true, PPN: 1]
+Time: 94 process: 4 page idx: 1
+	Access to page #1: Virtual Page[P: true, R: true, M: true, PPN: 1]
+Time: 95 process: 5 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: false, PPN: 4]
+Time: 96 process: 6 page idx: 3
+	Access to page #3: Virtual Page[P: true, R: true, M: false, PPN: 3]
+Time: 97 process: 7 page idx: 4
+	Access to page #4: Virtual Page[P: true, R: true, M: true, PPN: 4]
+Time: 98 process: 8 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: true, PPN: 2]
+Time: 99 process: 9 page idx: 2
+	Access to page #2: Virtual Page[P: true, R: true, M: true, PPN: 2]
